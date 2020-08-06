@@ -1,7 +1,7 @@
 ### Hi there, I'm Mark - [website] 👋
 
 ## I'm a Full Stack Engineer | Data Engineer | Machine Learning & Data Science Enthusiast !
-- 🔭 I’m currently working on web based classifier [website]!
+- 🔭 I’m currently working on any project i find interesting and fun!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to read more articles and journals on Deep Learning and contribute to open source!
 - 🥅 2020 Goals: To become a senior software Engineer
